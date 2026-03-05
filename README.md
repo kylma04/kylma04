@@ -184,9 +184,9 @@ Infrastructure composée de :
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylma04&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats.as93.net/api?username=kylma04&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylma04&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats.as93.net/api/top-langs/?username=kylma04&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kylma04&theme=tokyonight&hide_border=true)
 
