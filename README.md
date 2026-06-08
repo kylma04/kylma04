@@ -129,7 +129,7 @@ flowchart LR
 
 ## 📦 Projets
 
-### 🛍️ HOLY'S BEAUTY — E-commerce
+### 🛍️ PLUTON — E-commerce
 > **Stack :** React + Django Ninja
 
 - 🛒 Catalogue produits & panier
